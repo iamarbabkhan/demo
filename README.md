@@ -17,3 +17,10 @@
 13. git commit -m "commit message"
 14. git push origin main
 
+### How to resume work using ssh with github
+1. cd repository
+2. git remote -v
+3. git fetch --all
+4. git pull origin master
+5. ssh-add -l
+6. ssh-add ~/.ssh/id_rsa 
