@@ -13,9 +13,10 @@
 9. ssh -T git@github.com
 10. git clone git@github.com:iamarbabkhan/demo.git
 11. cd repo
-12. git add .
-13. git commit -m "commit message"
-14. git push origin main
+12. git init
+13. git add .
+14. git commit -m "commit message"
+15. git push origin main
 
 ### How to resume work using ssh with github
 1. cd repository
