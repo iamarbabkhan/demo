@@ -15,7 +15,7 @@
 11. git commit -m "commit message"
 12. git push origin main
 
-### How to resume work using ssh with github
+### How to resume work using https with github
 1. cd repository
 2. git remote -v
 3. git fetch --all
