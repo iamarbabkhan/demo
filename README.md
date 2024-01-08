@@ -3,7 +3,7 @@
 ### How to generate ssh and connect with github
 
 1. git config --global user.name "iamarbabkhan"
-2. git config --global user.email "arbabkhan579@gmail.com
+2. git config --global user.email "arbabkhan579@gmail.com"
 3. ls -al ~/.ssh
 4. ssh-keygen -t rsa -b 4096 -C "arbabkhan579@gmail.com"
 5. eval "$(ssh-agent -s)"
